@@ -19,7 +19,10 @@
   "homepage": "https://github.com/jaemin-han/react-upload-image#readme",
   "dependencies": {
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-dropzone": "^3.8.0",
+    "sha1": "^1.1.1",
+    "superagent": "^3.3.1"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
